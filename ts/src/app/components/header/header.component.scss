@@ -1,0 +1,246 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sideBar{
+    width: Fixed (220px)px;
+    height: Hug (536px)px;
+    gap: 0px;
+    opacity: 0px;
+    display: inline-grid;
+}
+
+.nomeEvento{
+    width: 220px;
+    height: 68px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.tituloEsquerdo{
+    left: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 220px;
+    height: 68px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(180deg, #FFB354 0%, #EE7A3A 100%);
+}
+
+.logo{
+    width: 220px;
+    height: 258px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.logoEvento{
+    width: 220px;
+    height: 258px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    background: url("../imagens/dewey\ 4.png");
+
+}
+
+.menuItem{
+    width: 220px;
+    height: 258px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.opcoes{
+    width: 99px;
+    height: 19px;
+    top: 7px;
+    left: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Quicksand;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    color: #725C5C;
+    background: #FFFFFF;
+}
+
+.opcoesTrabalhos{
+    width: 71px;
+    height: 19px;
+    top: 7px;
+    left: 29px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Quicksand;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    color: #725C5C;
+}
+
+.imagemLaranja{
+    width: 220px;
+    height: 258px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.todasOpcoes{
+    width: 220px;
+    height: 33px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.opcoes{
+    font-family: Quicksand;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    width: 99px;
+    height: 19px;
+    top: 7px;
+    left: 24px;
+    gap: 0px;
+    opacity: 0px;
+    width: 220px;
+    height: 2px;
+    top: 33px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.opcoesTrabalhos{
+    background: #FDF1EB;
+    width: 220px;
+    height: 33px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.header{
+    margin: -19.1em 15.5%;
+    background: #FDF1EB;
+    display: flex;
+    width: 84%;
+}
+
+.titulos{
+    display: block;
+    margin: 0% 3%;
+}
+
+.primeiroTitulo{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+}
+
+.segundoTitulo{
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 0.10px;
+    text-align: left;
+    color: #725C5C;
+}
+
+.terceiroTitulo{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    text-align: left;
+    color: #725C5C;
+
+}
+.botaoIdiomas{
+    width: 97px;
+    height: 34px;
+    top: 17px;
+    left: 789px;
+    gap: 0px;
+    margin: 2% 4%;
+}
+
+.ptBR{
+    border: 1px solid #CCCCCC;
+    padding: 5%;
+    border-radius: 3px;
+}
+
+.login {
+    display: block;
+    align-items: center;
+    margin: 1.5% 0% 0% 8%;
+}
+
+.bemVindo,
+.descricaoEmail {
+    margin: 0;
+    font-family: Quicksand;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.5px;
+    text-align: right;
+    color: #333333;
+}
+
+.imagemPessoa {
+    margin-left: auto;
+    background: url("../imagens/333e944668ee350c3f8ececc8f76b048.jpeg");
+    background-size: contain;
+
+}
+
+.notificacao{
+    float: inline-end;
+    margin: -12% -35% 0% 0%;
+}
+
+.quantidade{
+    margin: -15% 0% 0% 0%;
+    background-color: #F85959;
+    padding: 3px;
+    border-radius: 10px;
+    font-size: 10px;
+    float: inline-end;
+}
+
+.imagemPessoa{
+    width: 30.3px;
+    height: 30.63px;
+    top: 18.68px;
+    left: 1077.85px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 20px;
+}
+
+.tituloPosheader{
+    width: 786px;
+    height: 54px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #ED7839;
+}
